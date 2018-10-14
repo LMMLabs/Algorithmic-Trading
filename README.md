@@ -1,2 +1,2 @@
-# AlgorithmicTrading
-This repository will contain all of the Portfolio Trading Algorithms tested and/or developed by LMM Labs.
+# Algorithmic Trading
+This repository will contain all of the Portfolio Trading Algorithms tested and/or developed by LMM Labs.  The files in this repository have .py extensions, but they are really Quantopian algorithms.  This is because Quantopian algorithms use a Pythin like syntax.  The semantics of the language is a little different though so these will not run as Python programs unless additional libraries are loaded and code modifications are made.
